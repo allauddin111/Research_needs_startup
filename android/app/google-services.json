@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683111817348",
+    "firebase_url": "https://research-eec3a.firebaseio.com",
+    "project_id": "research-eec3a",
+    "storage_bucket": "research-eec3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683111817348:android:be8dde087eda3743fde2d1",
+        "android_client_info": {
+          "package_name": "com.hcwinida.research_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683111817348-d952qhv78s8ant3oeapoist36hiqgfbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHfa3TMFPOa2DxC0FZ9uRQGcjcyYYa1K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683111817348-d952qhv78s8ant3oeapoist36hiqgfbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
